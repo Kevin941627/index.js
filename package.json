@@ -1,0 +1,28 @@
+{
+  "name": "padaria-doce-sabor",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento para padaria - Projeto de aprendizado Node.js",
+  "main": "index.js",
+  
+
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "info": "node sistema2.js",
+    "calc": "node calculadora2.js",
+    "test": "echo \"Testes ainda não implementados\" && exit 1"
+  },
+  "keywords": [
+    "padaria",
+    "nodejs",
+    "backend",
+    "sistema",
+    "gerenciamento",
+    "aprendizado"
+  ],
+  "author": "Seu Nome Aqui",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
